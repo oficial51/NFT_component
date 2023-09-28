@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgHidden{
+    background-image: url(./assets/icon-view.svg);
+    background-position: center;
+    z-index: 10;
+}
